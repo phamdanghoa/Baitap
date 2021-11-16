@@ -1,0 +1,7 @@
+git checkout bugFix
+git rebase main
+git checkout side 
+git rebase bugFix 
+git checkout another 
+git rebase side 
+git branch -f main c7'
