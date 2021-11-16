@@ -1,0 +1,3 @@
+git checkout c2
+git checkout -b bugWork
+git checkout main
