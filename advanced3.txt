@@ -1,0 +1,18 @@
+git rebase -i HEAD~4
+git branch -f main c5
+git rebase -i HEAD~4
+git branch -f main c4'
+git branch -f one c5'
+git rebase one 
+git branch -f main c3'
+git branch -f one c4''
+git rebase one 
+git branch -f main c2'
+git branch -f one c3''
+git rebase one 
+git branch -f main c5
+git branch -f one c2'
+git branch -f three c2
+git branch -f two c2''
+
+
