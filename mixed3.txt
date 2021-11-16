@@ -1,0 +1,5 @@
+git rebase -i HEAD~2
+git branch -f caption c3
+gti rebase -i HEAD~2
+git branch -f caption c3
+git branch -f main c3'
